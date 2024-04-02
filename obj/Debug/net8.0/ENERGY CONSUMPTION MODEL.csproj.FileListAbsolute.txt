@@ -1,0 +1,26 @@
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\bin\Debug\net8.0\appsettings.json
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\bin\Debug\net8.0\ENERGY CONSUMPTION MODEL.exe
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\bin\Debug\net8.0\ENERGY CONSUMPTION MODEL.deps.json
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\bin\Debug\net8.0\ENERGY CONSUMPTION MODEL.runtimeconfig.json
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\bin\Debug\net8.0\ENERGY CONSUMPTION MODEL.dll
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\bin\Debug\net8.0\ENERGY CONSUMPTION MODEL.pdb
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\ENERGY CONSUMPTION MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\ENERGY CONSUMPTION MODEL.AssemblyInfoInputs.cache
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\ENERGY CONSUMPTION MODEL.AssemblyInfo.cs
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\ENERGY CONSUMPTION MODEL.csproj.CoreCompileInputs.cache
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\ENERGY CONSUMPTION MODEL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\ENERGY CONSUMPTION MODEL.sourcelink.json
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\staticwebassets\msbuild.ENERGY CONSUMPTION MODEL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\staticwebassets\msbuild.build.ENERGY CONSUMPTION MODEL.props
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ENERGY CONSUMPTION MODEL.props
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ENERGY CONSUMPTION MODEL.props
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\scopedcss\bundle\ENERGY CONSUMPTION MODEL.styles.css
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\ENERGY CONSUMPTION MODEL.dll
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\refint\ENERGY CONSUMPTION MODEL.dll
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\ENERGY CONSUMPTION MODEL.pdb
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\ENERGY CONSUMPTION MODEL.genruntimeconfig.cache
+C:\Users\USER\AppData\Local\Programs\Python\Python311\ENERGY CONSUMPTION MODEL\obj\Debug\net8.0\ref\ENERGY CONSUMPTION MODEL.dll
