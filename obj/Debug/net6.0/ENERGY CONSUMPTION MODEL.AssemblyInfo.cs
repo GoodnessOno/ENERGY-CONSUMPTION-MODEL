@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ENERGY CONSUMPTION MODEL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+031f58c029c468d94b1506f66c11f33a8cca7189")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d89698025cf39fae72c47db57b93d3dea6b24a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ENERGY CONSUMPTION MODEL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ENERGY CONSUMPTION MODEL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

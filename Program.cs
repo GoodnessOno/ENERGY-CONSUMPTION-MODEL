@@ -1,14 +1,13 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Hosting;
-
 using Microsoft.AspNetCore.Mvc;
 
 public class HomeController : Controller
 {
     public IActionResult Index()
     {
-        return View("~/templates/index.html");
+        return PhysicalFile("~/templates/index.html", "text/html");
     }
 }
 
@@ -43,4 +42,3 @@ public class Program
         app.Run();
     }
 }
-
