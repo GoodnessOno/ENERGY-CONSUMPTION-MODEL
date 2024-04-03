@@ -2,6 +2,16 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Hosting;
 
+using Microsoft.AspNetCore.Mvc;
+
+public class HomeController : Controller
+{
+    public IActionResult Index()
+    {
+        return View("~/templates/index.html");
+    }
+}
+
 public class Program
 {
     public static void Main(string[] args)
